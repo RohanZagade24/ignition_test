@@ -1,0 +1,16 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "style.json"
+  ],
+  "attributes": {
+    "lastModificationSignature": "1cdb43415eaa60f735f5ca3398082124a17f002c39171f94129cf1b13b03d623",
+    "lastModification": {
+      "actor": "Rohan",
+      "timestamp": "2026-04-18T16:45:45Z"
+    }
+  }
+}

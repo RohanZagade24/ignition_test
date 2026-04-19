@@ -1,0 +1,16 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "data.bin"
+  ],
+  "attributes": {
+    "lastModificationSignature": "dd4b3199198d17dc770c6e97c0ad9ff98eb41755cc0d215d36dd584c88922138",
+    "lastModification": {
+      "actor": "Rohan",
+      "timestamp": "2026-04-18T16:21:11Z"
+    }
+  }
+}

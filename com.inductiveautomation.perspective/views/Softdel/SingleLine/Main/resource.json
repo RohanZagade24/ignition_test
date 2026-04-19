@@ -1,0 +1,17 @@
+{
+  "scope": "G",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "view.json",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModificationSignature": "51c56acb755b2f3121281be87743a5d1612cc90813de12aa6757eb127abe7ed3",
+    "lastModification": {
+      "actor": "Rohan",
+      "timestamp": "2026-04-18T17:56:57Z"
+    }
+  }
+}

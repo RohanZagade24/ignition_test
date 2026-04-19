@@ -1,0 +1,31 @@
+{
+  "custom": {
+    "gap": "10px"
+  },
+  "params": {},
+  "propConfig": {
+    "custom.gap": {
+      "persistent": true
+    }
+  },
+  "props": {
+    "defaultSize": {
+      "height": 1080,
+      "width": 1920
+    }
+  },
+  "root": {
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "row-reverse",
+      "style": {
+        "gap": "10px",
+        "padding": "10px"
+      },
+      "wrap": "wrap"
+    },
+    "type": "ia.container.flex"
+  }
+}

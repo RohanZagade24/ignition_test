@@ -1,0 +1,49 @@
+{
+  "pages": {
+    "/": {
+      "title": "",
+      "viewPath": "Softdel/Overview/Main"
+    },
+    "/single-line": {
+      "title": "",
+      "viewPath": "Softdel/SingleLine/Main"
+    }
+  },
+  "sharedDocks": {
+    "bottom": [
+      {
+        "anchor": "fixed",
+        "autoBreakpoint": 480,
+        "content": "push",
+        "handle": "hide",
+        "iconUrl": "",
+        "id": "Footer",
+        "modal": false,
+        "resizable": false,
+        "show": "onDemand",
+        "size": 64,
+        "viewParams": {
+          "viewPath": "Softdel/Framework/Header/Mobile/MobileMainFooter"
+        },
+        "viewPath": "Softdel/Framework/Footer/Main"
+      }
+    ],
+    "cornerPriority": "top-bottom",
+    "top": [
+      {
+        "anchor": "fixed",
+        "autoBreakpoint": 480,
+        "content": "push",
+        "handle": "hide",
+        "iconUrl": "",
+        "id": "Header",
+        "modal": false,
+        "resizable": false,
+        "show": "visible",
+        "size": 57,
+        "viewParams": {},
+        "viewPath": "Softdel/Framework/Header/Main"
+      }
+    ]
+  }
+}
